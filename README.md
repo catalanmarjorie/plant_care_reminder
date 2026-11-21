@@ -15,19 +15,19 @@ A simple mobile app to help users remember when to water their plants.
 
   # Screenshots
   ## Home - Care Today
-![Care Today](CareToday.png)
+![Care Today](care_history_drafting_light.png)
 
 ### My Plants
-![My Plants](MyPlants.png)
+![My Plants](plants_full_shelf_light.png)
 
-### Plant Profile
-![Plant Profile](PlantProfile.png)
+### Plant Editing
+![Editing](edit_plant_editing_light.png)
 
 ### Add Plant
-![Add Plant](AddPlant.png)
+![Add Plant](add_plant_drafting_light.png)
 
 ### Weekly Planner / Care Log
-![Care Log](CareLog.png)
+![Care Log](log_care_initial_light.png)
 
 # How to Install and Run:
 1. Clone this repository
