@@ -13,6 +13,22 @@ A simple mobile app to help users remember when to water their plants.
 - Mark as watered
 - View plant list
 
+  # Screenshots
+  ## Home - Care Today
+![Care Today](CareToday.png)
+
+### My Plants
+![My Plants](MyPlants.png)
+
+### Plant Profile
+![Plant Profile](PlantProfile.png)
+
+### Add Plant
+![Add Plant](AddPlant.png)
+
+### Weekly Planner / Care Log
+![Care Log](CareLog.png)
+
 # How to Install and Run:
 1. Clone this repository
 2. Open in FlutterFlow / Flutter
