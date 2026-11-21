@@ -15,7 +15,7 @@ A simple mobile app to help users remember when to water their plants.
 
   # Screenshots
   ## Home - Care Today
-![Care Today](care_history_drafting_light.png)
+![Care Today](care_history_recent_events_light.png)
 
 ### My Plants
 ![My Plants](plants_full_shelf_light.png)
